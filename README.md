@@ -1,10 +1,10 @@
 # .net-training-one-smarter-inc--assignment folder 
 
-📅 July 07 assignment
-problem 1: Package Processor (July07_Task1_PackageProcessor.cs)
-Description: Simulates a conveyor belt processing 20 packages. Uses loops and conditionals to flag packages for Quality Check, Priority Shipment, or Normal Processing based on ID divisibility.
-problem 2: Power Analyzer (July07_Task2_PowerAnalyzer.cs)
-Description: Analyzes the power consumption formula for 30 street lights and categorizes them into maintenance required, normal operations, or energy efficient.
+📅 July 07 assignment/n
+problem 1: Package Processor (July07_Task1_PackageProcessor.cs) /n
+Description: Simulates a conveyor belt processing 20 packages. Uses loops and conditionals to flag packages for Quality Check, Priority Shipment, or Normal Processing based on ID divisibility./n
+problem 2: Power Analyzer (July07_Task2_PowerAnalyzer.cs)/n
+Description: Analyzes the power consumption formula for 30 street lights and categorizes them into maintenance required, normal operations, or energy efficient./n
 
 📅 July 08 assignmemt
 problem 1: Employee Sales Analyzer (July08_Task1_EmployeeSales.cs)
