@@ -31,3 +31,13 @@ problem 2: Library Book Manager (July08_Task2_LibraryBooks.cs)
 Description:
 Simulates a library inventory system using List collection.
 Supports adding, removing and displaying books.
+
+---
+📅 July 09 Assignment
+
+ Problem: Employee Leave Management System (July09_Task_EmployeeLeaveManagement.cs)
+
+Description:
+
+This program demonstrates the use of **Abstraction, Inheritance, and Collections** in C#.
+
