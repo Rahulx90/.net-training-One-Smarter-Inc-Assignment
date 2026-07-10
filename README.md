@@ -1,4 +1,4 @@
-# .net-training-one-smarter-inc--assignment folder \n 
+# .net-training-one-smarter-inc--assignment folder 
 
 📅 July 07 assignment
 
