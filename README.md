@@ -41,3 +41,11 @@ Description:
 
 This program demonstrates the use of **Abstraction, Inheritance, and Collections** in C#.
 
+---
+📅 July 11 Assignment
+
+Problem: Student Management System (July11_Task_StudentManagement.cs)
+
+Description:
+A console-based Student Management System that allows users to register students, manage courses, enroll students, calculate fees based on student type and credits, and display complete student information with enrolled courses.
+
