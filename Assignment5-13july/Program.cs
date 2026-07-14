@@ -10,56 +10,56 @@ class Program
         // Enter Customer ID 
         // Enter Name 
        // Enter Email 
-      // Enter Password 
+      //Enter Password 
 
-        // Console.Write("Enter Customer ID: ");
-        // int customerId = Convert.ToInt32(Console.ReadLine());
+        Console.Write("Enter Customer ID: ");
+        int customerId = Convert.ToInt32(Console.ReadLine());
 
-        // Console.Write("Enter Name: ");
-        // string customerName = Console.ReadLine();
+        Console.Write("Enter Name: ");
+        string customerName = Console.ReadLine();
 
-        // Console.Write("Enter Email: ");
-        // string customerEmail = Console.ReadLine();
+        Console.Write("Enter Email: ");
+        string customerEmail = Console.ReadLine();
 
-        // Console.Write("Enter Password: ");
-        // string customerPassword = Console.ReadLine();
+        Console.Write("Enter Password: ");
+        string customerPassword = Console.ReadLine();
 
-        // Console.WriteLine("\nRegistration Successful");
+        Console.WriteLine("\nRegistration Successful");
 
-        //   // Login
-        // Console.WriteLine("\n----- Login -----");
+          // Login
+        Console.WriteLine("\n----- Login -----");
 
-        // bool isLoggedIn = false;
+        bool isLoggedIn = false;
 
-        // for (int attempt = 1; attempt <= 3; attempt++)
-        // {
-        //     Console.Write("Enter Email: ");
-        //     string loginEmail = Console.ReadLine();
+        for (int attempt = 1; attempt <= 3; attempt++)
+        {
+            Console.Write("Enter Email: ");
+            string loginEmail = Console.ReadLine();
 
-        //     Console.Write("Enter Password: ");
-        //     string loginPassword = Console.ReadLine();
+            Console.Write("Enter Password: ");
+            string loginPassword = Console.ReadLine();
 
-        //     if (loginEmail == customerEmail && loginPassword == customerPassword)
-        //     {
-        //         Console.WriteLine("Welcome " + customerName);
-        //         isLoggedIn = true;
-        //         break;
-        //     }
-        //     else
-        //     {
-        //         Console.WriteLine("Invalid Email or Password");
+            if (loginEmail == customerEmail && loginPassword == customerPassword)
+            {
+                Console.WriteLine("Welcome " + customerName);
+                isLoggedIn = true;
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid Email or Password");
 
-        //         if (attempt < 3)
-        //         {
-        //             Console.WriteLine("Attempts Remaining: " + (3 - attempt));
-        //         }
-        //     }
-        // }
+                if (attempt < 3)
+                {
+                    Console.WriteLine("Attempts Remaining: " + (3 - attempt));
+                }
+            }
+        }
 
-        // if (!isLoggedIn)
-        // {
-        //     Console.WriteLine("Account Locked");
-        // }
+        if (!isLoggedIn)
+        {
+            Console.WriteLine("Account Locked");
+        }
 
         //problem 2
 
