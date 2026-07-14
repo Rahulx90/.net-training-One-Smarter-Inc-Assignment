@@ -50,44 +50,43 @@ Description:
 A console-based Student Management System that allows users to register students, manage courses, enroll students, calculate fees based on student type and credits, and display complete student information with enrolled courses.
 
 ---
-# 📅 July 14 Assignment
+📅 July 13 Assignment
 
-### Problem 1: Customer Registration and Login (Task1_CustomerRegistration.cs)
+ Problem 1: Customer Registration and Login (Task1_CustomerRegistration.cs)
 
-**Description:**
+Description:
 A console application that allows users to register with customer details, log in using email and password, and locks the account after three unsuccessful login attempts.
 
 ---
+ Problem 2: Product Management System (Task2_ProductManagement.cs)
 
-### Problem 2: Product Management System (Task2_ProductManagement.cs)
-
-**Description:**
+Description:
 A console application to add multiple products, store them in a list, and display all product details.
 
 ---
 
-### Problem 3: Product Search (Task3_ProductSearch.cs)
+ Problem 3: Product Search (Task3_ProductSearch.cs)
 
-**Description:**
+Description:
 Allows users to search for a product by its name and displays the product details if found; otherwise, displays "Product Not Found."
 
 ---
 
-### Problem 4: Shopping Cart (Task4_ShoppingCart.cs)
+Problem 4: Shopping Cart (Task4_ShoppingCart.cs)
 
-**Description:**
+Description:
 Allows users to add products to a shopping cart by entering the product ID and quantity, checks stock availability, and displays the final cart.
 
 ---
 
-### Problem 5: Discount Calculator (Task5_DiscountCalculator.cs)
+ Problem 5: Discount Calculator (Task5_DiscountCalculator.cs)
 
-**Description:**
+Description:
 Calculates the total purchase amount, applies discounts based on price ranges, and displays the total amount, discount, and final payable amount.
 
 ---
 
-### Problem 6: Payment System (Task6_PaymentSystem.cs)
+ Problem 6: Payment System (Task6_PaymentSystem.cs)
 
-**Description:**
+Description:
 Allows users to choose a payment method using a switch statement and displays a payment success or invalid option message.
