@@ -89,7 +89,7 @@ Calculates the total purchase amount, applies discounts based on price ranges, a
  Problem 6: Payment System (Task6_PaymentSystem.cs)
 
 Description:
-Allows users to choose a payment method using a switch statement and displays a payment success or invalid option message.
+Allows users to choose a payment method using a switch statement and displays a payment success or invalid option message
 ---
 
 📅 July 14 Assignment
@@ -97,7 +97,7 @@ Allows users to choose a payment method using a switch statement and displays a 
 Problem: Stationery Store Management System (July14_Task_StationeryStoreManagement.cs)
 
 Description:
-A console-based Stationery Store Management System that implements Object-Oriented Programming concepts including abstraction, inheritance, encapsulation, polymorphism, and interfaces. The application supports user authentication, inventory management, item search, update, deletion, purchasing, billing, sorting, low-stock monitoring, and custom exception handling using a menu-driven interface.
+A console-based Stationery Store Management System that implements Object-Oriented Programming concepts including abstraction, inheritance, encapsulation, polymorphism, and interfaces. The application supports user authentication, inventory management, item search, update, deletion, purchasing, billing, sorting, low-stock monitoring, and custom exception handling using a menu-driven interface
 ---
 
 📅 July 15 Assignment
