@@ -98,3 +98,11 @@ Problem: Stationery Store Management System (July14_Task_StationeryStoreManageme
 
 Description:
 A console-based Stationery Store Management System that implements Object-Oriented Programming concepts including abstraction, inheritance, encapsulation, polymorphism, and interfaces. The application supports user authentication, inventory management, item search, update, deletion, purchasing, billing, sorting, low-stock monitoring, and custom exception handling using a menu-driven interface.
+---
+
+📅 July 15 Assignment
+
+ Problem: Automobile Vehicle Management System (July15_Task_AutomobileVehicleManagement.cs)
+
+Description:
+A console-based Automobile Vehicle Management System that allows users to manage different types of vehicles, including cars, bikes, and trucks. The application supports adding, displaying, searching, updating, and deleting vehicles, calculating discounts, viewing vehicle details based on type, and uses a menu-driven interface with Object-Oriented Programming concepts.
